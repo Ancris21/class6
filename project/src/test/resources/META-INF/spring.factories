@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.cfuentec.clase6.\
+    config.SqlTestContainersSpringContextCustomizerFactory
